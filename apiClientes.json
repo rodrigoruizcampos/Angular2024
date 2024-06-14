@@ -1,62 +1,14 @@
 [
-    {
-      "id": 1,
-      "nome": "João",
-      "idade": 30,
-      "cidade": "São Paulo"
-    },
-    {
-      "id": 2,
-      "nome": "Maria",
-      "idade": 25,
-      "cidade": "Rio de Janeiro"
-    },
-    {
-      "id": 3,
-      "nome": "Pedro",
-      "idade": 22,
-      "cidade": "Belo Horizonte"
-    },
-    {
-      "id": 4,
-      "nome": "Ana",
-      "idade": 28,
-      "cidade": "Salvador"
-    },
-    {
-      "id": 5,
-      "nome": "Lucas",
-      "idade": 24,
-      "cidade": "Porto Alegre"
-    },
-    {
-      "id": 6,
-      "nome": "Carla",
-      "idade": 29,
-      "cidade": "Curitiba"
-    },
-    {
-      "id": 7,
-      "nome": "Rafael",
-      "idade": 26,
-      "cidade": "Recife"
-    },
-    {
-      "id": 8,
-      "nome": "Juliana",
-      "idade": 23,
-      "cidade": "Fortaleza"
-    },
-    {
-      "id": 9,
-      "nome": "Gustavo",
-      "idade": 27,
-      "cidade": "Manaus"
-    },
-    {
-      "id": 10,
-      "nome": "Fernanda",
-      "idade": 31,
-      "cidade": "Brasília"
-    }
-  ]
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  }
+]
