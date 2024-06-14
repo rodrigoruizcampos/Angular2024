@@ -1,5 +1,4 @@
-{
-  "pessoas": [
+[
     {
       "id": 1,
       "nome": "João",
@@ -61,4 +60,3 @@
       "cidade": "Brasília"
     }
   ]
-}
